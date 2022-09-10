@@ -22,6 +22,6 @@ You can assist the project in a number of ways:
 - Follow me on GitHub.
 - Please share on the sites like Hacker News, Twitter, Reddit, etc.
 - Report for any bugs, glitches, or errors. 
- These things will assist me in enhancing my upcoming projects. Thanks in advance!
+These things will assist me in enhancing my upcoming projects. Thanks in advance!
 
 
