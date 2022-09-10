@@ -16,12 +16,13 @@ This is a demo website of the Online Job Portal where a person can register as a
 # Disclaimer
 Some pages can not be loaded as they have been not added to this demo, also some unnecessary pages have been removed. Some tables on the database may not be able to get data from the website because they have not been linked through SQL with the database.
 # Support
-This is my first uploaded project on GitHub. Hope so, any type of mistakes will be considered.
+This is my first uploaded project on GitHub. Hope so, any type of mistakes will be considered.<br />
 You can assist the project in a number of ways:
 - Star the repository.
 - Follow me on GitHub.
 - Please share on the sites like Hacker News, Twitter, Reddit, etc.
-- Report for any bugs, glitches, or errors. 
+- Report for any bugs, glitches, or errors. <br />
+
 These things will assist me in enhancing my upcoming projects. Thanks in advance!
 
 
