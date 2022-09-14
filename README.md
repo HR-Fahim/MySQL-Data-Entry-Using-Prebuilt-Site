@@ -15,7 +15,7 @@ This is a demo website of the Online Job Portal where a person can register as a
 `http://localhost/Online%20Job-Portal/Homepage/homepage.php`
 - This will open the Homepage of the site & data can be entered on the indicated places of that webpage.
 - The entered data will show on the `online_job_portal` database of that MySQL admin website.
-# Disclaimer
+# Caution
 Some pages can not be loaded as they have been not added to this demo, also some unnecessary pages have been removed. Some tables on the database may not be able to get data from the website because they have not been linked through SQL with the database.
 # Support[<sup> @github/support <sup/>](https://support.github.com/)
 This is my first uploaded project on GitHub. Hope so, any type of mistakes will be considered.<br />
