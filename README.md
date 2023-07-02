@@ -2,7 +2,7 @@
 
 This repository contains a demo website of an Online Job Portal where individuals can register as job providers or job seekers. The website showcases the functionality of an online platform and demonstrates how databases are used to collect registered information and facilitate the process of finding perfect candidates for jobs. The demo website can be run on a local server using `Apache` and `localhost`.<br/>
 
-<sub> ****P.S.*** It was a part of the project from the CSE311 course offered by CSE, NSU (North South University).*<sub/>
+<sub> ****P.S.*** The project was completed under CSE311 (Database Systems) course offered by North South University.*<sub/>
 
 # Requirements
 
