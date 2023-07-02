@@ -1,4 +1,4 @@
-# Online Job Portal
+# About
 
 This repository contains a demo website of an Online Job Portal where individuals can register as job providers or job seekers. The website showcases the functionality of an online platform and demonstrates how databases are used to collect registered information and facilitate the process of finding perfect candidates for jobs. The demo website can be run on a local server using `Apache` and `localhost`.<br/>
 
