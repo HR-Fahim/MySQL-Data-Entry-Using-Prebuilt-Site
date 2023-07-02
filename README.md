@@ -1,30 +1,52 @@
-# About 
-This is a demo website of the Online Job Portal where a person can register as a job provider or a job seeker. This site shows how an online website actually works & uses its databases to collect registered information; also gives an idea about how they help us to find perfect candidates for jobs. In this demo, the website can be run by `Apache` localhost.<br/>
+# Online Job Portal
 
-<sub> ****P.S.*** It was a part of project from CSE311 course offered by CSE, NSU (North South University).*<sub/>
+This repository contains a demo website of an Online Job Portal where individuals can register as job providers or job seekers. The website showcases the functionality of an online platform and demonstrates how databases are used to collect registered information and facilitate the process of finding perfect candidates for jobs. The demo website can be run on a local server using `Apache` and `localhost`.<br/>
+
+<sub> ****P.S.*** It was a part of the project from the CSE311 course offered by CSE, NSU (North South University).*<sub/>
+
 # Requirements
-- Xampp<br />
--	MySQL Workbench<br />
--	Sublime text
+
+To run the demo website, the following components are required:
+
+- Xampp
+- MySQL Workbench
+- Sublime Text
+
 # Installation
-1. Put the `Online Job-Portal` folder into this location:`"C:\xampp\htdocs"`.
-2. Run Xampp, then click on `start`; from both of the modules `Apache` & `MySQL`. Next, click on `admin` from that `MySQL`; this will open the admin panel of the database named `phpMyAdmin`.
-3. Import the `online_job_portal.sql` database on that website.
-4. To use the data entry using the website:
-- Put this address on a browser:<br />
-`http://localhost/Online%20Job-Portal/Homepage/homepage.php`
-- This will open the Homepage of the site & data can be entered on the indicated places of that webpage.
-- The entered data will show on the `online_job_portal` database of that MySQL admin website.
+
+Follow these steps to set up the demo website:
+
+1. Copy the `Online Job-Portal` folder to the following location: `"C:\xampp\htdocs"`.
+
+2. Start Xampp and click on "Start" for both the "Apache" and "MySQL" modules. Then, click on "Admin" for "MySQL" to open the admin panel of the `phpMyAdmin` database.
+
+3. Import the `online_job_portal.sql` database on the `phpMyAdmin` website.
+
+4. To use the data entry function on the website:
+
+   - Open a browser and enter the following address:
+     `http://localhost/Online%20Job-Portal/Homepage/homepage.php`
+   - This will open the homepage of the website, where data can be entered in the indicated fields.
+   - The entered data will be stored in the `online_job_portal` database on the MySQL admin website.
+
 # Caution
-Some pages can not be loaded as they have been not added to this demo, also some unnecessary pages have been removed. Some tables on the database may not be able to get data from the website because they have not been linked through `Query` with the database.
-# Support[<sup> @github/support <sup/>](https://support.github.com/)
-This is my first uploaded project on GitHub. Hope so, any type of mistakes will be considered.<br />
-You can assist the project in a number of ways:
+
+Please note the following:
+
+- Some pages may not load as they have not been added to this demo. Additionally, some unnecessary pages have been removed.
+- Certain tables in the database may not receive data from the website because they have not been linked through queries with the database.
+
+# Support
+
+This is my first uploaded project on GitHub. I appreciate your understanding in case of any mistakes.
+
+You can support the project in the following ways:
+
 - Star the repository.
 - Follow me on [GitHub](https://github.com/HR-Fahim).
-- Please share on the sites like Hacker News, Twitter, Reddit, etc.
-- Report for any bugs, glitches, or errors. <br />
+- Share the project on sites like Hacker News, Twitter, Reddit, etc.
+- Report any bugs, glitches, or errors.
 
-These things will assist me in enhancing my upcoming projects. Thanks in advance!
+Your support and feedback will assist me in enhancing my upcoming projects. Thank you in advance!
 
 
